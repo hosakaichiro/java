@@ -1,5 +1,5 @@
 //ファイルを読み込み、サイズ変更したイメージを返す
-
+//vimで変更かけました。
 package map;
 
 import java.awt.image.BufferedImage;
